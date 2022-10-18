@@ -1,0 +1,14 @@
+{
+    "name": "simplerest/icofont",
+    "description": "A simple package to install IcoFont using Composer",
+    "type": "library",
+    "license": "CC BY 4.0",
+    "authors": [
+        {
+            "name": "Dmitriy",
+            "email": "stdimensiy@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
