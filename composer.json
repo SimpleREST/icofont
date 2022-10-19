@@ -1,14 +1,33 @@
 {
-    "name": "simplerest/icofont",
-    "description": "A simple package to install IcoFont using Composer",
-    "type": "library",
-    "license": "CC BY 4.0",
-    "authors": [
-        {
-            "name": "Dmitriy",
-            "email": "stdimensiy@yandex.ru"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "simplerest/icofont",
+  "description": "A simple package to install IcoFont using Composer",
+  "type": "library",
+  "keywords": [
+    "icofont",
+    "Free",
+    "Icon",
+    "Font",
+    "SVG Icons"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "IcoFont",
+      "homepage": "https://icofont.com/",
+      "role": "Developer"
+    },
+    {
+      "name": "Dmitriy Veremeenko",
+      "email": "stdimensiy@yandex.ru",
+      "role": "Publisher / Editor / Developer"
+    }
+  ],
+  "homepage": "https://icofont.com/",
+  "support": {
+    "issues": "https://github.com/SimpleREST/icofont/issues",
+    "source": "https://github.com/SimpleREST/icofont"
+  },
+  "minimum-stability": "dev",
+  "require": {},
+  "prefer-stable": true
 }
